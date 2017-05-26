@@ -12,7 +12,8 @@
      
   2. runSuite :
     Compares result of a program output with an expected result from a file. 
-    runSuite will print the output of the program along with the expected result if the program has incorrect implementation. 
+    runSuite will print the output of the program along with the expected result(stored in filename.out file) if the program 
+    has incorrect implementation. 
     Check errors such as incorrect number of Command Line arguments or missing filename.in or filename.out files.
     
     Invoked in Command Line as:
